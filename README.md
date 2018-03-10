@@ -6,3 +6,6 @@ A entrega do desafio se dá pelo envio de um email para maven@maven.com.br com o
 
 Informações sobre a base de dados a ser consultada:
 https://developer.marvel.com/docs
+
+
+Para funcionar, é preciso alterar o valor das constantes API_PRIVATE_KEY e API_PUBLIC_KEY na classe Constants para as respectivas chaves da sua conta.
